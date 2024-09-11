@@ -12,3 +12,15 @@ The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
 
+result = {'odd': [], 'even': []}
+
+while True:
+    num = int(input())
+    if num == 0:
+        break
+    if num % 2 == 0:
+        result['even'].append(num)
+    else:
+        result['odd'].append(num)
+
+print(result)
