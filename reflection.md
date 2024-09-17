@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Chengyu Jin
+Sudent Email:  cjin20@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+From this assignment, I learned a lot about the use of testing in python. Although I had some experience with python, I didn't have a deep understanding of how to use testing effectively. I struggled with asserting everytime to ensure nothing wrong, which is very likely to mess my code.
+
+Also don't forget in the right down corner you can select which python to use!
